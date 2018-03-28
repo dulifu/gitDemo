@@ -19,7 +19,6 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"kkk");
     NSLog(@"zz");
-    NSLog(@"第三次提交");
     NSLog(@"第四次提交");
 }
 
